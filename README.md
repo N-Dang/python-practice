@@ -1,4 +1,5 @@
 # Python Practice Programs
+Simple Python programs created for class practice.
 
 ## Description
 This repository contains simple Python programs created for my computer science class. These programs help me practice basic programming concepts such as input, loops, variables, and error handling.
